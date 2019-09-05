@@ -1,5 +1,7 @@
 # The ROS Package of Mask R-CNN for Object Detection and Segmentation
 
+<img src="https://github.com/yehengchen/mask_rcnn_ros/blob/master/scripts/mask_rcnn.gif" width="50%" height="50%">
+
 This is a ROS package of [Mask R-CNN](https://arxiv.org/abs/1703.06870) algorithm for object detection and segmentation.
 
 The package contains ROS node of Mask R-CNN with topic-based ROS interface.
