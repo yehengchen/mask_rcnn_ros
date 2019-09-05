@@ -63,4 +63,4 @@ Then RViz window will appear and show result like following:
 
 ## References
 
-[ mask_rcnn_ros ](https://github.com/qixuxiang/mask_rcnn_ros)
+__[ mask_rcnn_ros ](https://github.com/qixuxiang/mask_rcnn_ros)__
