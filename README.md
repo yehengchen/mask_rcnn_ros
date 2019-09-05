@@ -49,9 +49,6 @@ $ roslaunch mask_rcnn_ros freiburg3_rgbd_example.launch
 
 Then RViz window will appear and show result like following:
 
-![example1](doc/mask_r-cnn_1.png)
-
-![example2](doc/mask_r-cnn_2.png)
 
 ## Other issue
 
