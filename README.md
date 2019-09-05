@@ -21,7 +21,7 @@ If you want to train the model on your own class definition or dataset, try it o
 * I only test code on Python 2.7, it may work on Python3.X.
 * see more dependency and version details in [requirements.txt](https://github.com/qixuxiang/mask_rcnn_ros/blob/master/requirements.txt)
 
-## Getting Started
+## Quick Start
 
 1. Clone this repository to your catkin workspace, build workspace and source devel environment 
 ```
